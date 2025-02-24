@@ -41,3 +41,12 @@ li{
     font-size: 20px;
 }
 
+a{
+    text-decoration: none;
+    color: #271bca;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+}
